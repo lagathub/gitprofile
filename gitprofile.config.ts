@@ -51,7 +51,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Herbert Kipkoech - Portfolio', description: 'Java Developer', imageURL: '' },
   social: {
     linkedin: 'Herbert Kipkoech',
     x: 'bertman',
